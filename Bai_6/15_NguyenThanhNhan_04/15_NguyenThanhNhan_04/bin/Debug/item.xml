@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ued>
+  <item icode="I01" iname="Tivi Samsung" rate="20" />
+  <item icode="I02" iname="Iphone X" rate="32" />
+  <item icode="I03" iname="Máy giặt LG" rate="12" />
+  <item icode="I04" iname="Máy điều hòa Sony" rate="15" />
+  <item icode="I05" iname="Máy ảnh Canon" rate="85" />
+  <item icode="I06" iname="Lò vi sóng Toshiba" rate="5" />
+  <item icode="I07" iname="Nồi cơm điện" rate="12" />
+</ued>

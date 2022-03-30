@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ute>
+  <order orderno="01" code="C01" name="Trần Quốc Bảo" address="Quảng Ninh">
+    <item code="I01" name="Tivi Samsung" qty="2"  price="17" />
+    <item code="I02" name="Máy giặt LG" qty="1"  price="12" />
+    <item code="I03" name="Nồi cơm điện" qty="2"  price="8" />
+    <item code="I04" name="Iphone XI" qty="1"  price="30" />
+  </order>
+  <order orderno="02" code="C01" name="Phạm Tuấn Anh" address="Quảng Bình">
+    <item code="I01" name="Tivi Samsung"  qty="1"  price="17" />
+    <item code="I02" name="Máy giặt LG"  qty="1"  price="12" />
+    <item code="I03" name="Nồi cơm điện"  qty="2"  price="8" />
+  </order>
+  <order orderno="03" code="C03" name="Trần Quốc Bảo" address="Thái Bình">
+    <item code="I02" name="Máy giặt LG"  qty="1"  price="12" />
+    <item code="I03" name="Nồi cơm điện"  qty="1"  price="6" />
+    <item code="I04" name="Iphone XI"  qty="3"  price="30" />
+  </order>
+  <order orderno="04" code="C04" name="Vi Văn Đô" address="Quảng Ninh">
+    <item code="I01" name="Tivi Samsung"  qty="3"  price="17" />
+    <item code="I02" name="Máy giặt LG"  qty="4"  price="16" />
+    <item code="I03" name="Nồi cơm điện"  qty="5"  price="5" />
+    <item code="I04" name="Iphone XI"  qty="1"  price="30" />
+  </order>
+  <order orderno="05" code="C05" name="Trương Hà Ân" address="Ninh Bình">
+    <item code="I01" name="Tivi Samsung"  qty="1"  price="17" />
+    <item code="I02" name="Máy giặt LG"  qty="1"  price="8" />
+    <item code="I03" name="Nồi cơm điện"  qty="1"  price="9" />
+    <item code="I04" name="Iphone XI"  qty="2"  price="30" />
+  </order>
+  <order  orderno="06" code="C06" name="Nguyễn Thúy Hằng" address="Thanh Hóa">
+    <item code="C01" name="Tivi Samsung"  qty="1"  price="11" />
+    <item code="C02" name="Máy giặt LG"  qty="1"  price="10" />
+    <item code="C04" name="Iphone XI"  qty="3"  price="27" />
+  </order>
+</ute>

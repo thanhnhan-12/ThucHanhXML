@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ute>
+  <student code="S04" name="Vi Văn Đô" class="XML02" address="Nam Định">
+    <course code="C01" name="Java 1" credit="3" point="7" />
+    <course code="C02" name="Tư tưởng HCM" credit="2" point="6" />
+    <course code="C03" name="Cơ sở dữ liệu" credit="3" point="5" />
+    <course code="C04" name="Công nghệ XML" credit="2" point="4" />
+  </student>
+  <student code="S02" name="Nguyễn Thành Nhân" class="19T2" address="Đà Nẵng">
+    <course code="C03" name="Cơ sở dữ liệu" credit="2" point="8" />
+    <course code="C04" name="Công nghệ XML" credit="2" point="7" />
+  </student>
+</ute>

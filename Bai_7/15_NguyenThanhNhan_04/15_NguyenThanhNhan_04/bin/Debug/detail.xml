@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ued>
+  <item icode="I01" orderno="01" qty="9" price="16" />
+  <item icode="I02" orderno="01" qty="3" price="17" />
+  <item icode="I03" orderno="01" qty="7" price="18" />
+  <item icode="I04" orderno="01" qty="4" price="19" />
+  <item icode="I05" orderno="01" qty="6" price="10" />
+  <item icode="I02" orderno="02" qty="2" price="12" />
+  <item icode="I04" orderno="02" qty="3" price="16" />
+  <item icode="I05" orderno="02" qty="7" price="12" />
+  <item icode="I01" orderno="03" qty="2" price="16" />
+  <item icode="I03" orderno="03" qty="6" price="15" />
+  <item icode="I05" orderno="03" qty="8" price="18" />
+  <item icode="I04" orderno="03" qty="5" price="18" />
+  <item icode="I01" orderno="04" qty="6" price="21" />
+  <item icode="I03" orderno="04" qty="4" price="16" />
+  <item icode="I05" orderno="04" qty="5" price="25" />
+  <item icode="I01" orderno="05" qty="3" price="23" />
+  <item icode="I02" orderno="05" qty="1" price="25" />
+  <item icode="I04" orderno="05" qty="9" price="30" />
+  <item icode="I01" orderno="06" qty="10" price="12" />
+  <item icode="I06" orderno="06" qty="2" price="16" />
+  <item icode="I07" orderno="06" qty="1" price="27" />
+  <item icode="I01" orderno="07" qty="1" price="15" />
+  <item icode="I04" orderno="07" qty="5" price="26" />
+  <item icode="I03" orderno="08" qty="1" price="29" />
+  <item icode="I05" orderno="08" qty="9" price="36" />
+  <item icode="I01" orderno="13" qty="1" price="34" />
+  <item icode="I03" orderno="13" qty="3" price="32" />
+  <item icode="I04" orderno="14" qty="1" price="12" />
+  <item icode="I06" orderno="14" qty="2" price="23" />
+</ued>

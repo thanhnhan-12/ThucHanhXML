@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ute>
+  <student code="S03" name="Bùi Văn Sỹ" class="XML02" address="Quãng Ngãi" />
+  <student code="S04" name="Vi Văn Đô" class="XML02" address="Gia Lai" />
+  <student code="S05" name="Trương Hà Ân" class="XML01" address="Ninh Bình" />
+  <student code="S08" name="Trần Thị Ngọc Linh" class="XML04" address="Quảng Nam" />
+  <student code="S09" name="Nguyễn Gia Minh" class="XML03" address="KomTum" />
+  <student code="S10" name="Trương Công Tuấn" class="XML01" address="Quảng Trị" />
+  <student code="S12" name="Phạm Thiên" class="XML03" address="Quảng Nam" />
+  <student code="S14" name="Nguyễn Huy" class="XML04" address="Gia Lai" />
+</ute>

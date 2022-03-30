@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ute>
+  <student code="S02" name="Phạm Văn Thiên" class="XML01" address="Đà Nẵng">
+    <course code="C01" name="Java 1" credit="3" point="9" />
+    <course code="C02" name="Tư tưởng HCM" credit="2" point="7" />
+    <course code="C03" name="Cơ sở dữ liệu" credit="3" point="6" />
+  </student>
+  <student code="S03" name="Nguyễn Quang Huy" class="19T1" address="Gia Lai">
+    <course code="C02" name="Tư tưởng HCM" credit="2" point="5" />
+    <course code="C03" name="Cơ sở dữ liệu" credit="3" point="6" />
+    <course code="C04" name="Công nghệ XML" credit="2" point="7" />
+  </student>
+  <student code="S04" name="Đỗ Hồng Ân" class="XML02" address="Đà Nẵng">
+    <course code="C01" name="Java 1" credit="3" point="7" />
+    <course code="C02" name="Tư tưởng HCM" credit="2" point="6" />
+    <course code="C03" name="Cơ sở dữ liệu" credit="3" point="5" />
+    <course code="C04" name="Công nghệ XML" credit="2" point="4" />
+    <course code="C04" name="Thiết kế giao diện" credit="2" point="8" />
+    <course code="C04" name="Công nghệ XML" credit="2" point="8" />
+  </student>
+  <student code="S05" name="Đoàn Ngọc Phú Quốc" class="XML03" address="Quảng Nam">
+    <course code="C01" name="Java 1" credit="3" point="7" />
+    <course code="C02" name="Tư tưởng HCM" credit="2" point="8" />
+    <course code="C03" name="Cơ sở dữ liệu" credit="3" point="9" />
+    <course code="C04" name="Công nghệ XML" credit="2" point="10" />
+  </student>
+  <student code="S06" name="Cao Thị Thúy Hằng" class="XML03" address="Cần Thơ">
+    <course code="C01" name="Java 1" credit="3" point="9" />
+    <course code="C02" name="Tư tưởng HCM" credit="2" point="8" />
+    <course code="C04" name="Công nghệ XML" credit="2" point="6" />
+  </student>
+  <student code="S02" name="Lê Huy Châu Kỳ" class="19T2" address="Đà Nẵng" />
+  <student code="S02" name="Nguyễn Thành Nhân" class="19T2" address="Đà Nẵng">
+    <course code="C02" name="Tư tưởng HCM" credit="2" point="10" />
+    <course code="C01" name="Java 1" credit="2" point="7" />
+    <course code="C04" name="Công nghệ XML" credit="2" point="10" />
+  </student>
+</ute>

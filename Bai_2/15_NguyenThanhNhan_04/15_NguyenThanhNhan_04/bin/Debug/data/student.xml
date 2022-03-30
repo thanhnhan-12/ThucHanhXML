@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ute>
+  <student code="S01" name="Trần Văn Hà" class="216XML01">
+    <course code="C01" name="Java 1" point="8" />
+    <course code="C02" name="Tư tưởng HCM" point="7" />
+    <course code="C04" name="Công nghệ XML" point="5" />
+  </student>
+  <student code="S02" name="Hoàng Đình Đạt" class="216XML02">
+    <course code="C01" name="Java 1" point="7" />
+    <course code="C02" name="Tư tưởng HCM" point="9" />
+    <course code="C03" name="Cơ sở dữ liệu" point="8" />
+    <course code="C04" name="Công nghệ XML" point="6" />
+  </student>
+  <student code="S03" name="Nguyễn Văn Bình" class="216XML02">
+    <course code="C01" name="Java 1" point="2" />
+    <course code="C02" name="Tư tưởng HCM" point="10" />
+    <course code="C03" name="Cơ sở dữ liệu" point="4" />
+    <course code="C04" name="Công nghệ XML" point="7" />
+  </student>
+  <student code="" name="" class="" />
+  <student code="" name="" class="" />
+</ute>

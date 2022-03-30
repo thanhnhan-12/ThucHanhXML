@@ -1,0 +1,10 @@
+D:\ThucHanhXML\Bai_5\15_NguyenThanhNhan_04\15_NguyenThanhNhan_04\bin\Debug\15_NguyenThanhNhan_04.exe.config
+D:\ThucHanhXML\Bai_5\15_NguyenThanhNhan_04\15_NguyenThanhNhan_04\bin\Debug\15_NguyenThanhNhan_04.exe
+D:\ThucHanhXML\Bai_5\15_NguyenThanhNhan_04\15_NguyenThanhNhan_04\bin\Debug\15_NguyenThanhNhan_04.pdb
+D:\ThucHanhXML\Bai_5\15_NguyenThanhNhan_04\15_NguyenThanhNhan_04\obj\Debug\15_NguyenThanhNhan_04.csprojAssemblyReference.cache
+D:\ThucHanhXML\Bai_5\15_NguyenThanhNhan_04\15_NguyenThanhNhan_04\obj\Debug\_15_NguyenThanhNhan_04.StudenManager.resources
+D:\ThucHanhXML\Bai_5\15_NguyenThanhNhan_04\15_NguyenThanhNhan_04\obj\Debug\_15_NguyenThanhNhan_04.Properties.Resources.resources
+D:\ThucHanhXML\Bai_5\15_NguyenThanhNhan_04\15_NguyenThanhNhan_04\obj\Debug\15_NguyenThanhNhan_04.csproj.GenerateResource.cache
+D:\ThucHanhXML\Bai_5\15_NguyenThanhNhan_04\15_NguyenThanhNhan_04\obj\Debug\15_NguyenThanhNhan_04.csproj.CoreCompileInputs.cache
+D:\ThucHanhXML\Bai_5\15_NguyenThanhNhan_04\15_NguyenThanhNhan_04\obj\Debug\15_NguyenThanhNhan_04.exe
+D:\ThucHanhXML\Bai_5\15_NguyenThanhNhan_04\15_NguyenThanhNhan_04\obj\Debug\15_NguyenThanhNhan_04.pdb

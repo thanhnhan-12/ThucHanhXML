@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ued>
+<customer ccode="C01" cname="Đặng Quỳnh Anh" address="Hướng Hóa, Quảng Bình"/>
+<customer ccode="C02" cname="Nguyễn Văn Cường" address="Trà My, Quảng Nam"/>
+<customer ccode="C03" cname="Tán Thị Hà" address="Đông Giang, Quảng Nam"/>
+<customer ccode="C04" cname="Phạm Thế Triều" address="Lao Bảo, Quảng Trị"/>
+<customer ccode="C05" cname="Dương Tấn Vinh" address="Đắc Hà, Đắc Lắc"/>
+<customer ccode="C06" cname="Hồ Vũ Chung" address="Quế Sơn, Quảng Nam"/>
+<customer ccode="C07" cname="Nguyễn Gia Minh" address="Hoàng Su Phì,Lai Châu"/>
+<customer ccode="C08" cname="Phạm Ngọc Trường" address="Sapa,Lào Cai"/>
+</ued>
