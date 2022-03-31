@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_tb_HoaDon_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_tb_HoaDon_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="mahd" type="xs:string" minOccurs="0" />
+                <xs:element name="makh" type="xs:string" minOccurs="0" />
+                <xs:element name="luongdientt" type="xs:string" minOccurs="0" />
+                <xs:element name="loaidien" type="xs:string" minOccurs="0" />
+                <xs:element name="thanhtien" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_tb_HoaDon_x0027_>
+    <mahd>hd001</mahd>
+    <makh>kh001</makh>
+    <luongdientt>20</luongdientt>
+    <loaidien>Sinh hoạt</loaidien>
+    <thanhtien>112000</thanhtien>
+  </_x0027_tb_HoaDon_x0027_>
+  <_x0027_tb_HoaDon_x0027_>
+    <mahd>hd002</mahd>
+    <makh>kh001</makh>
+    <luongdientt>11</luongdientt>
+    <loaidien>Kinh doanh</loaidien>
+    <thanhtien>132000</thanhtien>
+  </_x0027_tb_HoaDon_x0027_>
+  <_x0027_tb_HoaDon_x0027_>
+    <mahd>hd004</mahd>
+    <makh>kh004</makh>
+    <luongdientt>17</luongdientt>
+    <loaidien>Sinh hoạt</loaidien>
+    <thanhtien>200000</thanhtien>
+  </_x0027_tb_HoaDon_x0027_>
+  <_x0027_tb_HoaDon_x0027_>
+    <mahd>hd005</mahd>
+    <makh>kh005</makh>
+    <luongdientt>39</luongdientt>
+    <loaidien>Kinh doanh</loaidien>
+    <thanhtien>1900000</thanhtien>
+  </_x0027_tb_HoaDon_x0027_>
+  <_x0027_tb_HoaDon_x0027_>
+    <mahd>hd006</mahd>
+    <makh>kh001</makh>
+    <luongdientt>21</luongdientt>
+    <loaidien>Kinh doanh</loaidien>
+    <thanhtien>27800</thanhtien>
+  </_x0027_tb_HoaDon_x0027_>
+  <_x0027_tb_HoaDon_x0027_>
+    <mahd>hd008</mahd>
+    <makh>kh007</makh>
+    <luongdientt>30</luongdientt>
+    <loaidien>Kinh doanh</loaidien>
+    <thanhtien>40</thanhtien>
+  </_x0027_tb_HoaDon_x0027_>
+  <_x0027_tb_HoaDon_x0027_>
+    <mahd>hd009</mahd>
+    <makh>kh008</makh>
+    <luongdientt>12</luongdientt>
+    <loaidien>Sinh hoạt</loaidien>
+    <thanhtien>99000</thanhtien>
+  </_x0027_tb_HoaDon_x0027_>
+  <_x0027_tb_HoaDon_x0027_>
+    <mahd>hd011</mahd>
+    <makh>kh009</makh>
+    <luongdientt>260</luongdientt>
+    <loaidien>Sinh hoạt</loaidien>
+    <thanhtien>220000</thanhtien>
+  </_x0027_tb_HoaDon_x0027_>
+  <_x0027_tb_HoaDon_x0027_>
+    <mahd>hd012</mahd>
+    <makh>kh011</makh>
+    <luongdientt>36</luongdientt>
+    <loaidien>Sinh hoạt</loaidien>
+    <thanhtien>420000</thanhtien>
+  </_x0027_tb_HoaDon_x0027_>
+  <_x0027_tb_HoaDon_x0027_>
+    <mahd>hd014</mahd>
+    <makh>kh010</makh>
+    <luongdientt>50</luongdientt>
+    <loaidien>Kinh doanh</loaidien>
+    <thanhtien>210000</thanhtien>
+  </_x0027_tb_HoaDon_x0027_>
+  <_x0027_tb_HoaDon_x0027_>
+    <mahd>hd020</mahd>
+    <makh>kh012</makh>
+    <luongdientt>23</luongdientt>
+    <loaidien>Sinh hoạt</loaidien>
+    <thanhtien>1200000</thanhtien>
+  </_x0027_tb_HoaDon_x0027_>
+</NewDataSet>

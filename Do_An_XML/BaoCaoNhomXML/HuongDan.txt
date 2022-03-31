@@ -1,0 +1,7 @@
+- Đăng nhập với Tài khoản: admin và pass: admin
+- Vào mục quản lí sẽ hiển thị ra 3 mục quản lí:
++ Quản lí khách hàng
++ Quản lí hóa đơn
++ Quản lí chỉ số điện
+- Tìm kiếm, thêm, sửa xóa và report ra các form quản lí.
+- Chuyển đổi dữ liệu từ SQL sang XML

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <chisodien>
+    <makh>kh001</makh>
+    <mathang>t006</mathang>
+    <chisocu>65</chisocu>
+    <chisomoi>130</chisomoi>
+  </chisodien>
+  <chisodien>
+    <makh>kh003</makh>
+    <mathang>t006</mathang>
+    <chisocu>67</chisocu>
+    <chisomoi>130</chisomoi>
+  </chisodien>
+  <chisodien>
+    <makh>kh002</makh>
+    <mathang>t007</mathang>
+    <chisocu>130</chisocu>
+    <chisomoi>160</chisomoi>
+  </chisodien>
+</ds>

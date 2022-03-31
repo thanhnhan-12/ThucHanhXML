@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_tb_ChiSoDien_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_tb_ChiSoDien_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="makh" type="xs:string" minOccurs="0" />
+                <xs:element name="mathang" type="xs:string" minOccurs="0" />
+                <xs:element name="chisocu" type="xs:string" minOccurs="0" />
+                <xs:element name="chisomoi" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_tb_ChiSoDien_x0027_>
+    <makh>kh001</makh>
+    <mathang>th02</mathang>
+    <chisocu>25</chisocu>
+    <chisomoi>28</chisomoi>
+  </_x0027_tb_ChiSoDien_x0027_>
+  <_x0027_tb_ChiSoDien_x0027_>
+    <makh>kh002</makh>
+    <mathang>th023</mathang>
+    <chisocu>14</chisocu>
+    <chisomoi>25</chisomoi>
+  </_x0027_tb_ChiSoDien_x0027_>
+  <_x0027_tb_ChiSoDien_x0027_>
+    <makh>kh005</makh>
+    <mathang>t099</mathang>
+    <chisocu>18</chisocu>
+    <chisomoi>42</chisomoi>
+  </_x0027_tb_ChiSoDien_x0027_>
+  <_x0027_tb_ChiSoDien_x0027_>
+    <makh>kh004</makh>
+    <mathang>th99</mathang>
+    <chisocu>25</chisocu>
+    <chisomoi>50</chisomoi>
+  </_x0027_tb_ChiSoDien_x0027_>
+  <_x0027_tb_ChiSoDien_x0027_>
+    <makh>kh007</makh>
+    <mathang>thang12</mathang>
+    <chisocu>36</chisocu>
+    <chisomoi>50</chisomoi>
+  </_x0027_tb_ChiSoDien_x0027_>
+  <_x0027_tb_ChiSoDien_x0027_>
+    <makh>kh008</makh>
+    <mathang>t111</mathang>
+    <chisocu>44</chisocu>
+    <chisomoi>98</chisomoi>
+  </_x0027_tb_ChiSoDien_x0027_>
+  <_x0027_tb_ChiSoDien_x0027_>
+    <makh>kh009</makh>
+    <mathang>th011</mathang>
+    <chisocu>100</chisocu>
+    <chisomoi>260</chisomoi>
+  </_x0027_tb_ChiSoDien_x0027_>
+  <_x0027_tb_ChiSoDien_x0027_>
+    <makh>kh010</makh>
+    <mathang>th214</mathang>
+    <chisocu>45</chisocu>
+    <chisomoi>52</chisomoi>
+  </_x0027_tb_ChiSoDien_x0027_>
+  <_x0027_tb_ChiSoDien_x0027_>
+    <makh>kh011</makh>
+    <mathang>t011</mathang>
+    <chisocu>25</chisocu>
+    <chisomoi>32</chisomoi>
+  </_x0027_tb_ChiSoDien_x0027_>
+  <_x0027_tb_ChiSoDien_x0027_>
+    <makh>kh012</makh>
+    <mathang>th014</mathang>
+    <chisocu>25</chisocu>
+    <chisomoi>32</chisomoi>
+  </_x0027_tb_ChiSoDien_x0027_>
+</NewDataSet>

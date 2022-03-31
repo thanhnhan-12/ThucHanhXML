@@ -1,0 +1,96 @@
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.ChiSoDien.resources
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.DangNhap.resources
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.HoaDon.resources
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Main.resources
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.QLKH.resources
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Start.resources
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.TKHoaDoncs.resources
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.TKKhachHang.resources
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Thu Uyen\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.ChiSoDien.resources
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.DangNhap.resources
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.HoaDon.resources
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Main.resources
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.QLKH.resources
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Start.resources
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.TKHoaDoncs.resources
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.TKKhachHang.resources
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Nam3\CN_XML\BaoCaoNhomXML\BaoCaoNhomXML\BaoCaoXML\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.ChiSoDien.resources
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.DangNhap.resources
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.HoaDon.resources
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Main.resources
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.QLKH.resources
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Start.resources
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ADMIN\OneDrive\Desktop\ProjectGitClone\quanlytiendien_xml\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.ChiSoDien.resources
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.DangNhap.resources
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.HoaDon.resources
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Main.resources
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.QLKH.resources
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Start.resources
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Thu Uyen\source\repos\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.ChiSoDien.resources
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.DangNhap.resources
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.HoaDon.resources
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Main.resources
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.QLKH.resources
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Start.resources
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\This PC\Downloads\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.ChiSoDien.resources
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.DangNhap.resources
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.HoaDon.resources
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Main.resources
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.QLKH.resources
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Start.resources
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\XML\Do_An_XML\BaoCaoNhomXML\xmlquanlytiendien\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

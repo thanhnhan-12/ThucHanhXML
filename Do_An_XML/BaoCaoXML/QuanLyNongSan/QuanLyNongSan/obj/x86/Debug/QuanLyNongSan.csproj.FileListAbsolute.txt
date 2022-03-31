@@ -1,0 +1,47 @@
+C:\Users\OS\AppData\Local\Temporary Projects\QuanLyNongSan\bin\Debug\QuanLyNongSan.exe
+C:\Users\OS\AppData\Local\Temporary Projects\QuanLyNongSan\bin\Debug\QuanLyNongSan.pdb
+C:\Users\OS\AppData\Local\Temporary Projects\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Form1.resources
+C:\Users\OS\AppData\Local\Temporary Projects\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Form2.resources
+C:\Users\OS\AppData\Local\Temporary Projects\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Form3.resources
+C:\Users\OS\AppData\Local\Temporary Projects\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Properties.Resources.resources
+C:\Users\OS\AppData\Local\Temporary Projects\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.csproj.GenerateResource.Cache
+C:\Users\OS\AppData\Local\Temporary Projects\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.exe
+C:\Users\OS\AppData\Local\Temporary Projects\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.pdb
+D:\THU HOA\Học kì 320 - Hè\Công nghệ XML\BaiTapNhom-XML\CML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.exe
+D:\THU HOA\Học kì 320 - Hè\Công nghệ XML\BaiTapNhom-XML\CML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.pdb
+D:\THU HOA\Học kì 320 - Hè\Công nghệ XML\BaiTapNhom-XML\CML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.exe
+D:\THU HOA\Học kì 320 - Hè\Công nghệ XML\BaiTapNhom-XML\CML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.pdb
+D:\THU HOA\Học kì 320 - Hè\Công nghệ XML\BaiTapNhom-XML\CML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.csprojResolveAssemblyReference.cache
+D:\THU HOA\Học kì 320 - Hè\Công nghệ XML\BaiTapNhom-XML\CML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.csproj.GenerateResource.Cache
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\bin\Debug\QuanLyNongSan.exe.config
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\bin\Debug\QuanLyNongSan.exe
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\bin\Debug\QuanLyNongSan.pdb
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.csprojResolveAssemblyReference.cache
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Form1.resources
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Form2.resources
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Form3.resources
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Form4.resources
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Form5.resources
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.FormSaoLuuData.resources
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Properties.Resources.resources
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.csproj.GenerateResource.Cache
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.exe
+D:\TRẦN ĐẠI\XML\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.pdb
+D:\TRẦN ĐẠI\XML\New folder\test-2\QuanLyNongSan\QuanLyNongSan\bin\Debug\QuanLyNongSan.exe.config
+D:\TRẦN ĐẠI\XML\New folder\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.exe
+D:\TRẦN ĐẠI\XML\New folder\test-2\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.pdb
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\bin\Debug\QuanLyNongSan.exe.config
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\bin\Debug\QuanLyNongSan.exe
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\bin\Debug\QuanLyNongSan.pdb
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.csprojAssemblyReference.cache
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Form1.resources
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Form2.resources
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Form3.resources
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Form4.resources
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Form5.resources
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.FormSaoLuuData.resources
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.Properties.Resources.resources
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.csproj.GenerateResource.cache
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.csproj.CoreCompileInputs.cache
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.exe
+D:\XML\Do_An_XML\BaoCaoXML\QuanLyNongSan\QuanLyNongSan\obj\x86\Debug\QuanLyNongSan.pdb

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<danhsach>
+  <hoadon>
+    <mahd>hd001</mahd>
+    <makh>kh001</makh>
+    <luongdientt>65</luongdientt>
+    <loaidien>sinh hoạt</loaidien>
+    <thanhtien>200000</thanhtien>
+  </hoadon>
+  <hoadon>
+    <mahd>hd003</mahd>
+    <makh>kh002</makh>
+    <luongdientt>100</luongdientt>
+    <loaidien>sinh hoạt</loaidien>
+    <thanhtien>300000</thanhtien>
+  </hoadon>
+  <hoadon>
+    <mahd>hd004</mahd>
+    <makh>kh004</makh>
+    <luongdientt>120</luongdientt>
+    <loaidien>Kinh doanh</loaidien>
+    <thanhtien>280000</thanhtien>
+  </hoadon>
+  <hoadon>
+    <mahd>hd005</mahd>
+    <makh>kh003</makh>
+    <luongdientt>30</luongdientt>
+    <loaidien>sinh hoạt</loaidien>
+    <thanhtien>100000</thanhtien>
+  </hoadon>
+</danhsach>

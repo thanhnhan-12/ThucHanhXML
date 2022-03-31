@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<ChiTietNongSans>
+  <ChiTietNongSan>
+    <maNS>NS00001</maNS>
+    <tenNS>Rau Má</tenNS>
+    <soLuong>10</soLuong>
+    <chiTiet>Rau Má Nhà Tr?ng</chiTiet>
+    <maSMNS>DM00001</maSMNS>
+    <gia>10000</gia>
+  </ChiTietNongSan>
+  <ChiTietNongSan>
+    <maNS>NS00002</maNS>
+    <tenNS>Rau Mu?n</tenNS>
+    <soLuong>23</soLuong>
+    <chiTiet>Tr?ng du?i muong</chiTiet>
+    <maSMNS>DM00001</maSMNS>
+    <gia>15000</gia>
+  </ChiTietNongSan>
+  <ChiTietNongSan>
+    <maNS>NS00003</maNS>
+    <tenNS>Rau Chân V?t</tenNS>
+    <soLuong>23</soLuong>
+    <chiTiet>Nông S?n S?ch</chiTiet>
+    <maSMNS>DM00001</maSMNS>
+    <gia>20000</gia>
+  </ChiTietNongSan>
+  <ChiTietNongSan>
+    <maNS>NS00004</maNS>
+    <tenNS>Rau C?n Em</tenNS>
+    <soLuong>23</soLuong>
+    <chiTiet>Ð?m b?o ch?t lu?ng</chiTiet>
+    <maSMNS>DM00001</maSMNS>
+    <gia>12000</gia>
+  </ChiTietNongSan>
+  <ChiTietNongSan>
+    <maNS>NS00005</maNS>
+    <tenNS>Xoài QN</tenNS>
+    <soLuong>23</soLuong>
+    <chiTiet>Nh?ng Qu? Tuy?t Nh?t</chiTiet>
+    <maSMNS>DM00002</maSMNS>
+    <gia>12300</gia>
+  </ChiTietNongSan>
+  <ChiTietNongSan>
+    <maNS>NS00006</maNS>
+    <tenNS>Dua H?u</tenNS>
+    <soLuong>23</soLuong>
+    <chiTiet>Ðu?c Tr?ng trên Ð?o</chiTiet>
+    <maSMNS>DM00002</maSMNS>
+    <gia>14000</gia>
+  </ChiTietNongSan>
+  <ChiTietNongSan>
+    <maNS>NS00007</maNS>
+    <tenNS>Táo Tây</tenNS>
+    <soLuong>15</soLuong>
+    <chiTiet>Tr?ng trên vu?ng Ð?a Ðàn</chiTiet>
+    <maSMNS>DM00002</maSMNS>
+    <gia>45000</gia>
+  </ChiTietNongSan>
+  <ChiTietNongSan>
+    <maNS>NS00008</maNS>
+    <tenNS>Lê</tenNS>
+    <soLuong>13</soLuong>
+    <chiTiet>T? Cây Lê Trong Truy?n Ki?u</chiTiet>
+    <maSMNS>DM00002</maSMNS>
+    <gia>30000</gia>
+  </ChiTietNongSan>
+  <ChiTietNongSan>
+    <maNS>NS00009</maNS>
+    <tenNS>Th?t bò Cube</tenNS>
+    <soLuong>19</soLuong>
+    <chiTiet>Ít M? T? cho s?c kh?e</chiTiet>
+    <maSMNS>DM00003</maSMNS>
+    <gia>1000000</gia>
+  </ChiTietNongSan>
+  <ChiTietNongSan>
+    <maNS>NS00010</maNS>
+    <tenNS>Th?t Dê</tenNS>
+    <soLuong>23</soLuong>
+    <chiTiet>C?c Kì ngon</chiTiet>
+    <maSMNS>DM00003</maSMNS>
+    <gia>150000</gia>
+  </ChiTietNongSan>
+  <ChiTietNongSan>
+    <maNS>NS00011</maNS>
+    <tenNS>Th?t Gà</tenNS>
+    <soLuong>23</soLuong>
+    <chiTiet>Th?c ph?m s?ch không ch?t t?o n?t</chiTiet>
+    <maSMNS>DM00003</maSMNS>
+    <gia>146000</gia>
+  </ChiTietNongSan>
+</ChiTietNongSans>

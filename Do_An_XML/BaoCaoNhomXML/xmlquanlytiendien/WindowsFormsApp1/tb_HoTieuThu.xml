@@ -1,0 +1,135 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_tb_HoTieuThu_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_tb_HoTieuThu_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="makh" type="xs:string" minOccurs="0" />
+                <xs:element name="hoten" type="xs:string" minOccurs="0" />
+                <xs:element name="cmt" type="xs:string" minOccurs="0" />
+                <xs:element name="diachi" type="xs:string" minOccurs="0" />
+                <xs:element name="gioitinh" type="xs:string" minOccurs="0" />
+                <xs:element name="ngaysinh" type="xs:string" minOccurs="0" />
+                <xs:element name="sodt" type="xs:string" minOccurs="0" />
+                <xs:element name="ngaydk" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_tb_HoTieuThu_x0027_>
+    <makh>kh001</makh>
+    <hoten>Nguyễn Thành Nhân</hoten>
+    <cmt>201956321</cmt>
+    <diachi>50 Đống Đa</diachi>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>2/20/2001</ngaysinh>
+    <sodt>0935687412</sodt>
+    <ngaydk>3/11/2010</ngaydk>
+  </_x0027_tb_HoTieuThu_x0027_>
+  <_x0027_tb_HoTieuThu_x0027_>
+    <makh>kh002</makh>
+    <hoten>Trịnh Hoàng Duy Anh</hoten>
+    <cmt>201896324</cmt>
+    <diachi>12 Quảng Nam</diachi>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>6/6/2001</ngaysinh>
+    <sodt>0905362178</sodt>
+    <ngaydk>6/11/2019</ngaydk>
+  </_x0027_tb_HoTieuThu_x0027_>
+  <_x0027_tb_HoTieuThu_x0027_>
+    <makh>kh004</makh>
+    <hoten>Bùi Văn Sỹ</hoten>
+    <cmt>789612356</cmt>
+    <diachi>20 Quảng Trị</diachi>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>10/17/2001</ngaysinh>
+    <sodt>0905632784</sodt>
+    <ngaydk>2/4/2015</ngaydk>
+  </_x0027_tb_HoTieuThu_x0027_>
+  <_x0027_tb_HoTieuThu_x0027_>
+    <makh>kh005</makh>
+    <hoten>Phạm Thiên</hoten>
+    <cmt>789644442</cmt>
+    <diachi>20 Quảng Nam</diachi>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>10/17/2001</ngaysinh>
+    <sodt>0905178632</sodt>
+    <ngaydk>2/4/2015</ngaydk>
+  </_x0027_tb_HoTieuThu_x0027_>
+  <_x0027_tb_HoTieuThu_x0027_>
+    <makh>kh006</makh>
+    <hoten>Nguyễn Quang Huy</hoten>
+    <cmt>209917723</cmt>
+    <diachi>Gia Lai</diachi>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>3/23/1999</ngaysinh>
+    <sodt>0338883691</sodt>
+    <ngaydk>6/16/2020</ngaydk>
+  </_x0027_tb_HoTieuThu_x0027_>
+  <_x0027_tb_HoTieuThu_x0027_>
+    <makh>kh007</makh>
+    <hoten>Nguyên Minh</hoten>
+    <cmt>199936547</cmt>
+    <diachi>1 Bạch Đằng</diachi>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>2/23/2005</ngaysinh>
+    <sodt>0336785951</sodt>
+    <ngaydk>1/30/2022</ngaydk>
+  </_x0027_tb_HoTieuThu_x0027_>
+  <_x0027_tb_HoTieuThu_x0027_>
+    <makh>kh008</makh>
+    <hoten>Quang Minh</hoten>
+    <cmt>201963278</cmt>
+    <diachi>23 Trưng Nữ Vương</diachi>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>2/27/2002</ngaysinh>
+    <sodt>0447896523</sodt>
+    <ngaydk>10/28/2014</ngaydk>
+  </_x0027_tb_HoTieuThu_x0027_>
+  <_x0027_tb_HoTieuThu_x0027_>
+    <makh>kh009</makh>
+    <hoten>Trần Thị Lan Hương</hoten>
+    <cmt>201796321</cmt>
+    <diachi>20 Thanh Sơn</diachi>
+    <gioitinh>Nữ</gioitinh>
+    <ngaysinh>5/16/2001</ngaysinh>
+    <sodt>0337413589</sodt>
+    <ngaydk>1/11/2022</ngaydk>
+  </_x0027_tb_HoTieuThu_x0027_>
+  <_x0027_tb_HoTieuThu_x0027_>
+    <makh>kh010</makh>
+    <hoten>Đức</hoten>
+    <cmt>299963178</cmt>
+    <diachi>k96/14 Quảng Nam</diachi>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>12/15/2005</ngaysinh>
+    <sodt>0669748523</sodt>
+    <ngaydk>8/11/2011</ngaydk>
+  </_x0027_tb_HoTieuThu_x0027_>
+  <_x0027_tb_HoTieuThu_x0027_>
+    <makh>kh011</makh>
+    <hoten>Hưng</hoten>
+    <cmt>201625893</cmt>
+    <diachi>k12 Quảng Nam</diachi>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>5/29/2001</ngaysinh>
+    <sodt>0336741259</sodt>
+    <ngaydk>8/15/2019</ngaydk>
+  </_x0027_tb_HoTieuThu_x0027_>
+  <_x0027_tb_HoTieuThu_x0027_>
+    <makh>kh012</makh>
+    <hoten>Minh</hoten>
+    <cmt>201936524</cmt>
+    <diachi>50 Trưng Nữ Vương</diachi>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>10/16/2001</ngaysinh>
+    <sodt>0339526321</sodt>
+    <ngaydk>7/20/2022</ngaydk>
+  </_x0027_tb_HoTieuThu_x0027_>
+</NewDataSet>

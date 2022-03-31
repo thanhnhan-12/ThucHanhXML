@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DanhMucNongSans>
+  <DanhMucNongSan>
+    <maDM>DM00001</maDM>
+    <tenDM>Rau</tenDM>
+  </DanhMucNongSan>
+  <DanhMucNongSan>
+    <maDM>DM00002</maDM>
+    <tenDM>Hoa Quả</tenDM>
+  </DanhMucNongSan>
+  <DanhMucNongSan>
+    <maDM>DM00003</maDM>
+    <tenDM>Trứng Thịt</tenDM>
+  </DanhMucNongSan>
+</DanhMucNongSans>

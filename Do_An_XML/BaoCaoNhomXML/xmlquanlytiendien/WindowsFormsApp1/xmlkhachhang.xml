@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<danhsach>
+  <khachhang>
+    <makh>kh003</makh>
+    <hoten>Lê Trần Phương Thảo</hoten>
+    <cmt>191129564</cmt>
+    <diachi>K20/90 Đống Đa</diachi>
+    <gioitinh>Nữ</gioitinh>
+    <ngaysinh>10/10/1995</ngaysinh>
+    <sodt>0962345861</sodt>
+    <ngaydk>7/17/2019</ngaydk>
+  </khachhang>
+  <khachhang>
+    <makh>kh004</makh>
+    <hoten>thi anh</hoten>
+    <cmt>232323</cmt>
+    <diachi>hue</diachi>
+    <gioitinh>Nữ</gioitinh>
+    <ngaysinh>6/15/2004</ngaysinh>
+    <sodt>45435344</sodt>
+    <ngaydk>1/18/2021</ngaydk>
+  </khachhang>
+  <khachhang>
+    <makh>kh002</makh>
+    <hoten>Hoàng Minh Trang</hoten>
+    <cmt>192897342</cmt>
+    <diachi>K15/90 Đống Đa</diachi>
+    <gioitinh>Nữ</gioitinh>
+    <ngaysinh>1/10/1998</ngaysinh>
+    <sodt>0934252348</sodt>
+    <ngaydk>7/21/2019</ngaydk>
+  </khachhang>
+  <khachhang>
+    <makh>kh006</makh>
+    <hoten>Nguyễn Anh </hoten>
+    <cmt>192130234</cmt>
+    <diachi>K12/90 Đống Đa</diachi>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>7/22/1999</ngaysinh>
+    <sodt>0904358838</sodt>
+    <ngaydk>4/27/2019</ngaydk>
+  </khachhang>
+  <khachhang>
+    <makh>kh001</makh>
+    <hoten>thi anh</hoten>
+    <cmt>232323</cmt>
+    <diachi>hue</diachi>
+    <gioitinh>Nữ</gioitinh>
+    <ngaysinh>6/15/2004</ngaysinh>
+    <sodt>45435344</sodt>
+    <ngaydk>1/18/2021</ngaydk>
+  </khachhang>
+  <khachhang>
+    <makh>kh005</makh>
+    <hoten>Nguyễn Anh </hoten>
+    <cmt>192130234</cmt>
+    <diachi>K12/90 Đống Đa</diachi>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>7/22/1999</ngaysinh>
+    <sodt>0904358838</sodt>
+    <ngaydk>4/27/2019</ngaydk>
+  </khachhang>
+  <khachhang>
+    <makh>kh003</makh>
+    <hoten>Lê Trần Phương Thảo</hoten>
+    <cmt>191129564</cmt>
+    <diachi>K20/90 Đống Đa</diachi>
+    <gioitinh>Nữ</gioitinh>
+    <ngaysinh>10/10/1995</ngaysinh>
+    <sodt>0962345861</sodt>
+    <ngaydk>7/17/2019</ngaydk>
+  </khachhang>
+  <khachhang>
+    <makh>kh052</makh>
+    <hoten>thi anh</hoten>
+    <cmt>232323</cmt>
+    <diachi>hue</diachi>
+    <gioitinh>Nữ</gioitinh>
+    <ngaysinh>6/15/2004</ngaysinh>
+    <sodt>45435344</sodt>
+    <ngaydk>1/18/2021</ngaydk>
+  </khachhang>
+</danhsach>
